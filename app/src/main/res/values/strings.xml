@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplicacao_Teste</string>
+    <string name="titulo">CADASTRO DE FUNCIONARIO</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="telefone">TELEFONE</string>
+    <string name="nome">NOME</string>
+    <string name="endereco">ENDEREÇO</string>
+    <string name="cargo">CARGO</string>
+    <string name="garcom">GARCOM</string>
+    <string name="outros">OUTROS</string>
+</resources>
