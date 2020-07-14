@@ -8,4 +8,10 @@
     <string name="cargo">CARGO</string>
     <string name="garcom">GARCOM</string>
     <string name="outros">OUTROS</string>
+    <string name="voltar">VOLTAR PARA TELA ANTERIOR</string>
+    <string name="dados">SEUS DADOS DO CADASTRO</string>
+    <string name="txt_nome"></string>
+    <string name="txt_telefone"></string>
+    <string name="txt_endereco"></string>
+
 </resources>
